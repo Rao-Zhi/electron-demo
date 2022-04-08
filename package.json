@@ -11,7 +11,7 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\"",
-    "dmg": "appdmg ./appdmg.json ./out/Unhand.dmg"
+    "dmg": "appdmg ./appdmg.json ./out/auto-update-example.dmg"
   },
   "keywords": [],
   "author": {
