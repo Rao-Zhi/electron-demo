@@ -38,5 +38,5 @@ jobs:
           prerelease: true
           files: |
             LICENSE
-            out/Unhand.dmg
+            out/auto-update-example.dmg
             out/*.exe

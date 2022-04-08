@@ -4,7 +4,7 @@
     "icon": "./public/image/unhand.icns",
     "contents": [
       { "x": 380, "y": 170, "type": "link", "path": "/Applications" },
-      { "x": 200, "y": 170, "type": "file", "path": "./out/Unhand Studio-darwin-x64/Unhand Studio.app" }
+      { "x": 200, "y": 170, "type": "file", "path": "./out/auto-update-example-darwin-x64/auto-update-example.app" }
     ],
     "window": {
         "size": {
